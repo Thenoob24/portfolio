@@ -12,7 +12,7 @@ const timelineItems = [
     type: 'education',
   },
   {
-    date: '2025 — 2026',
+    date: '2024 — 2026',
     title: 'Alternant Développeur',
     company: 'Maisons & Cités',
     description:
